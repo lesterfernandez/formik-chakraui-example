@@ -12,6 +12,8 @@ then
 yarn
 ```
 
+or
+
 ```sh
 npm install
 ```
