@@ -1,4 +1,6 @@
-## This is the code based on a youtube video
+## This project was made as part of a youtube tutorial
+
+https://www.youtube.com/watch?v=4j6QiEbBoS0
 
 ### If you want to follow along from the beginning run
 
